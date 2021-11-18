@@ -1,13 +1,5 @@
 
 
-"""
-Course:  Training YOLO v3 for Objects Detection with Custom Data
-
-Section-2
-Objects Detection on Image with YOLO v3 and OpenCV
-File: yolo-3-image.py
-"""
-
 
 # Detecting Objects on Image with OpenCV deep learning library
 #
